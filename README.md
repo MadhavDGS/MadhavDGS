@@ -27,9 +27,7 @@
 <div align="center">
   <h2>⚡ T E C H • S T A C K ⚡</h2>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,opencv" /><br>
   <img src="https://skillicons.dev/icons?i=react,js,arduino,raspberrypi,aws,gcp" />
   

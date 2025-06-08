@@ -10,7 +10,6 @@
   </a>
 </div>
 
-<br>
 
 <div align="center">
   <a href="mailto:sreemadhavpelli@gmail.com">

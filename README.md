@@ -1,10 +1,9 @@
 # <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3500&pause=300&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Sree+Madhav;AI+%26+ML+Developer;IoT+Enthusiast;Robotics+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there! I'm Sree Madhav
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/4SdB4Qx.gif" width="600px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3500&pause=300&color=00FF9D&center=true&vCenter=true&width=500&lines=AI+%26+ML+Developer;IoT+Enthusiast;Robotics+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -27,23 +26,30 @@
 
 <img align="right" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJtNXBzNmN1NWx1MnB4OWRyOWRxbXJ1eGhyYmN0NmJ3NjBxcmxobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-```python
-class SreeMadhav:
-    def __init__(self):
-        self.name = "Sree Madhav Pelli"
-        self.education = "B.Tech CSE @ GNI (GPA: 8.8)"
-        self.location = "Hyderabad, India"
-        self.interests = ["AI/ML", "IoT", "Robotics"]
-        self.current_project = "While(1)CareAI"
-        
-    def get_skills(self):
-        return {
-            "AI/ML": ["TensorFlow", "PyTorch", "OpenCV"],
-            "Web": ["React Native", "JavaScript"],
-            "IoT": ["Arduino", "ESP32", "Sensors"],
-            "Languages": ["Python", "Java", "C"]
-        }
-```
+I'm a passionate technologist pursuing B.Tech in Computer Science (GPA: 8.8) at Guru Nanak Institutions. I specialize in AI/ML, embedded systems, and software development, with a strong focus on creating integrated solutions that bridge hardware and software.
+
+- 🎓 Education: B.Tech CSE @ GNI (GPA: 8.8)
+- 📍 Location: Hyderabad, India
+- 🔭 Currently working on: While(1)CareAI - Healthcare AI Solution
+- 💡 Interests: AI/ML, IoT, Robotics, Full Stack Development
+- 🌱 Learning: Advanced Computer Vision & Medical Image Analysis
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Technical Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,opencv,react,javascript,arduino" alt="Skills" />
+</div>
+
+### Core Technologies
+- **AI/ML**: TensorFlow, PyTorch, OpenCV, Medical Image Analysis
+- **Web Development**: React Native, JavaScript, Full Stack
+- **IoT & Embedded**: Arduino, ESP32, Sensor Integration
+- **Cloud Services**: Google Cloud Vision, Gemini API
+- **Languages**: Python, Java, C
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -89,29 +95,6 @@ class SreeMadhav:
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Technical Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,opencv,react,javascript,arduino" alt="Skills" />
-</div>
-
-```css
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   Skills {                                               │
-│       ai-ml: advanced-computer-vision, medical-imaging;   │
-│       cloud: google-cloud-vision, gemini-api;            │
-│       iot: sensor-integration, real-time-monitoring;     │
-│       dev: full-stack, embedded-systems;                 │
-│   }                                                      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -207,20 +190,6 @@ class SreeMadhav:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&border_color=00FF9D" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavDGS&theme=radical&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&border=00FF9D" alt="GitHub Streak" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhavDGS&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=00FF9D" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect With Me
 
 <div align="center">
@@ -245,6 +214,4 @@ class SreeMadhav:
   ```css
   Thanks for visiting my profile! Let's build something amazing together! 🚀
   ```
-  
-  ![Snake animation](https://github.com/MadhavDGS/MadhavDGS/blob/output/github-contribution-grid-snake-dark.svg)
 </div>

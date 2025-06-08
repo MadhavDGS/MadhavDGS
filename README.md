@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
- 
-  
+
   <a href="https://github.com/MadhavDGS">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=450&lines=LOADING+SKILLS...;AI+DEVELOPMENT...+OK!;ROBOTICS+SYSTEMS...+OK!;IOT+DEVICES...+OK!;FULL+STACK...+OK!;ALL+SYSTEMS+GO!" alt="Typing SVG" />
   </a>
@@ -27,7 +26,9 @@
 <div align="center">
   <h2>⚡ T E C H • S T A C K ⚡</h2>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,opencv" /><br>
   <img src="https://skillicons.dev/icons?i=react,js,arduino,raspberrypi,aws,gcp" />
   

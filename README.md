@@ -133,6 +133,8 @@
   </table>
 </div>
 
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
@@ -147,9 +149,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" width="49%"/>
   </div>
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-  
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
 </div>

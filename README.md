@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=200&section=header&text=Sree%20Madhav&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20|%20IoT%20Enthusiast%20|%20Robotics%20Engineer&descAlignY=58&descAlign=50" />
 </div>
+
 <div align="center">
-  
  
   
   <a href="https://github.com/MadhavDGS">
@@ -10,6 +10,7 @@
   </a>
 </div>
 
+<br>
 
 <div align="center">
   <a href="mailto:sreemadhavpelli@gmail.com">
@@ -132,7 +133,7 @@
     </tr>
   </table>
 </div>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
@@ -147,8 +148,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" width="49%"/>
   </div>
 
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
   
-
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
 </div>

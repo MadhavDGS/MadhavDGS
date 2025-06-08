@@ -16,12 +16,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=MadhavDGS&cc=0D1117&tc=00FF9D&ic=fff&bc=0D1117" width="600">
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,47 +42,56 @@ class TechStack:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/MadhavDGS/While1CareAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavDGS&repo=While1CareAI&theme=radical&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&border_color=00FF9D" />
-</a>
-<a href="https://github.com/MadhavDGS/SynapseAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavDGS&repo=SynapseAI&theme=radical&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&border_color=00FF9D" />
-</a>
-</div>
+### [SynapseAI](https://github.com/MadhavDGS/SynapseAI)
+Next-gen AI study companion for enhanced learning
+- 📚 Smart library management with AI-driven organization
+- ⏰ Intelligent scheduling system with ML optimization
+- 🎯 Focus tracking and productivity analytics
+- 🤖 Integrated Botpress chatbot for assistance
+- 🛠️ **Tech Stack:** TypeScript, React Native, Python, Botpress API
+
+### [While(1)CareAI](https://github.com/MadhavDGS/While1CareAI)
+AI-powered healthcare companion for rural clinics
+- 🔬 Advanced medical image analysis using deep learning
+- 💓 Real-time vital signs monitoring system
+- 🤖 AI-driven risk assessment and diagnostics
+- 👥 Dual interface for patients and healthcare providers
+- 🛠️ **Tech Stack:** TensorFlow, OpenCV, React Native
 
 ## 🏆 Hackathon Victories
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="40" alt="Trophy">
-      <br>
-      <strong>Hackcelerate 2025</strong>
-      <br>
-      2nd Place @ Microsoft IDC
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/First%20Place%20Medal.png" width="40" alt="First Place">
-      <br>
-      <strong>CBIT SUDHEE</strong>
-      <br>
-      First Place Winner
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" alt="Robot">
-      <br>
-      <strong>Vasavi Tech Fest</strong>
-      <br>
-      Multiple Robotics Wins
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavDGS&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true" width="800">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60" alt="Trophy">
+        <br>
+        <strong>Hackcelerate 2025</strong>
+        <br>
+        2nd Place @ Microsoft IDC
+        <br>
+        <sub>Among 441+ teams</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/First%20Place%20Medal.png" width="60" alt="First Place">
+        <br>
+        <strong>CBIT SUDHEE</strong>
+        <br>
+        First Place Winner
+        <br>
+        <sub>Healthcare Innovation</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60" alt="Robot">
+        <br>
+        <strong>Vasavi Tech Fest</strong>
+        <br>
+        Multiple Robotics Wins
+        <br>
+        <sub>Robo-Sumo & Arduino</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">

@@ -4,7 +4,9 @@
 
 <div align="center">
   
-
+  ```diff
+  + AI/ML Developer 🤖 | IoT Enthusiast 🌐 | Robotics Engineer 🦾
+  ```
   
   <a href="https://github.com/MadhavDGS">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=450&lines=LOADING+SKILLS...;AI+DEVELOPMENT...+OK!;ROBOTICS+SYSTEMS...+OK!;IOT+DEVICES...+OK!;FULL+STACK...+OK!;ALL+SYSTEMS+GO!" alt="Typing SVG" />
@@ -142,7 +144,12 @@
   Thanks for visiting my profile! Let's build something amazing together! 🚀
   ```
   
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavDGS&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF" width="95%"/>
+  
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavDGS&theme=dark&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" width="49%"/>
+  </div>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
 </div>

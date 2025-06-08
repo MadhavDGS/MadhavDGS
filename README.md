@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h2>⚡ T E C H • S T A C K ⚡</h2>
+  <h2> T E C H • S T A C K </h2>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  <h2>🚀 F E A T U R E D • P R O J E C T S 🚀</h2>
+  <h2> F E A T U R E D • P R O J E C T S </h2>
 </div>
 
 <table align="center">

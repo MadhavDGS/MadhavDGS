@@ -20,6 +20,8 @@
   <a href="https://portfolio-72r7.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=MadhavDGS&color=00FF9D&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
@@ -169,6 +171,8 @@
   ```css
   Thanks for visiting my profile! Let's build something amazing together! 🚀
   ```
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   <br>
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">

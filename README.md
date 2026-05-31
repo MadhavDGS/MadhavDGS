@@ -184,9 +184,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavDGS&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF" width="95%"/>
   <br><br>
 
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavDGS&theme=dark&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" width="49%"/>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavDGS&theme=dark&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" />
   </div>
   
   <br>

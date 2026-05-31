@@ -28,17 +28,9 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,flask,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git,raspberrypi,arduino,react" />
-  
-  ```css
-  ┌──────────── SYSTEM STATUS ────────────┐
-  │   CV Models    : YOLO/ONNX Deployed   │
-  │   Backend      : FastAPI Running      │
-  │   Databases    : PostgreSQL Synced    │
-  │   Patents      : 2 Filed              │
-  └─────────────────────────────────────┘
-  ```
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,pytorch,opencv" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,mysql,redis" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,raspberrypi,arduino" />
 </div>
 
 <div align="center">

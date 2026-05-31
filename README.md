@@ -93,64 +93,103 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <h2>🏆 A C H I E V E M E N T S • & • P A T E N T S 🏆</h2>
+  <h2>🏆 H A C K A T H O N S • & • A C H I E V E M E N T S 🏆</h2>
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="5%" align="center"><h2>🥇</h2></td>
+    <td width="95%">
+      <strong>1st Place – Vyoma National Hackathon (TechSurge 2K25)</strong><br>
+      <em>B.V. Raju Institute of Technology</em> | Placed 1st out of 230+ teams. Built 'Sarathi'—a Flask & React platform utilizing the Gemini API for dynamic educational quiz generation.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🥇</h2></td>
+    <td width="95%">
+      <strong>1st Place – Ideathon 2K25 (Solo)</strong><br>
+      <em>CVR College of Engineering</em> | Placed 1st solo against 100+ teams. Developed 'SynapseAI', a smart study companion with Botpress webhook integrations.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🥇</h2></td>
+    <td width="95%">
+      <strong>1st Place – CBIT SUDHEE Hackathon</strong><br>
+      <em>Chaitanya Bharathi Institute of Technology</em> | Built a bidirectional sign language translator prototype using Vosk and spaCy NLP on a Raspberry Pi. Reached AICTE APF finals.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🥇</h2></td>
+    <td width="95%">
+      <strong>1st Prize – Path Master (ACUMEN Tech Fest)</strong><br>
+      <em>Vasavi College of Engineering</em> | Assembled an autonomous line-following robot using IR sensors and shortest-path algorithms. Also won 2nd in Obstacle Smash.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🥈</h2></td>
+    <td width="95%">
+      <strong>2nd Place – Hackcelerate 2025 (Powered by GitHub)</strong><br>
+      <em>Microsoft IDC Finale</em> | Pitched to top 16 national finalists. Built ESP32-CAM smart glasses with vital monitoring & fall detection.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🥈</h2></td>
+    <td width="95%">
+      <strong>2nd Place – MakeX Hackathon</strong><br>
+      <em>Mahindra University</em> | Secured 2nd place in a gruelling 5-round real-time system building, debugging, and integration challenge under extreme pressure.
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%" valign="top">
-        <h2>🥇</h2>
-        <strong>5x National Hackathon Winner</strong>
-        <br><br>
-        <span style="color: #00FF9D">Microsoft IDC (2nd Place)</span><br>
-        <span style="color: #00FF9D">Vyoma TechSurge (1st Place)</span><br>
-        <span style="color: #00FF9D">Ideathon 2K25 (1st Place)</span><br>
-        <span style="color: #00FF9D">CBIT SUDHEE (1st Place)</span><br>
-        <span style="color: #00FF9D">MakeX Hackathon (2nd Place)</span>
-      </td>
-      <td align="center" width="33%" valign="top">
-        <h2>📜</h2>
-        <strong>2x Patent Applications</strong>
-        <br><br>
-        <span style="color: #00FF9D">App No. 202541069008</span><br>
-        AI Sign Language Edge System
-        <br><br>
-        <span style="color: #00FF9D">App No. 202541068269</span><br>
-        AGRIBOT Monitoring Pipeline
-      </td>
-      <td align="center" width="33%" valign="top">
-        <h2>🎓</h2>
-        <strong>Certifications & Training</strong>
-        <br><br>
-        <span style="color: #00FF9D">AIMERS Deep Learning Trainee</span><br>
-        CNNs & NLP via PyTorch
-        <br><br>
-        <span style="color: #00FF9D">NPTEL Python Certification</span><br>
-        IIT-Certified with Distinction
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2>📜 P A T E N T S • & • C E R T I F I C A T I O N S 📜</h2>
 </div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="5%" align="center"><h2>📄</h2></td>
+    <td width="95%">
+      <strong>AI Sign Language System Architecture</strong> (App No. 202541069008)<br>
+      Patented system architecture for an offline NLP translation pipeline deployed via Docker containers on edge Linux systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🚜</h2></td>
+    <td width="95%">
+      <strong>AGRIBOT – Crop Monitoring System</strong> (App No. 202541068269)<br>
+      Patented hardware-software integration for autonomous precision agriculture using YOLOv9 vision systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="5%" align="center"><h2>🎓</h2></td>
+    <td width="95%">
+      <strong>NPTEL Joy of Computing (Python)</strong> | IIT-certified Python with distinction.<br>
+      <strong>AIMERS Deep Learning Trainee</strong> | PyTorch, CNNs, and NLP.<br>
+      <strong>HackerRank Java (Basic)</strong> | DSA, OOP, Exception Handling.
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ```css
-  Let's build scalable AI backends together! 🚀
+  Thanks for visiting my profile! Let's build something amazing together! 🚀
   ```
   <br>
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavDGS&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF" width="95%"/>
+  <br><br>
 
-  <!-- GitHub Stats Row -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavDGS&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavDGS&theme=dark&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MadhavDGS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" width="49%"/>
   </div>
   
   <br>
-  
-  <!-- Dynamic Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhavDGS&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%"/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
 </div>
